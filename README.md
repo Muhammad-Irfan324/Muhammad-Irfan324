@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Muhammad Irfan Tahir**
-- :man_office_worker: I'm a **DevOps Eng**
+- :man_office_worker: **DevOps Eng**
 - 📫 How to reach me **muhammad.irfan.tahir93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
