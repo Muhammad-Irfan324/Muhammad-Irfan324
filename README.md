@@ -9,7 +9,7 @@
 
 <h3 align="left">Certification</h3>
 <p align="left">
-<a href="https://www.youracclaim.com/badges/13bba4fa-b442-4c69-91d4-9db3e54e721e?source=linked_in_profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/terraform.svg" alt="https://www.youracclaim.com/badges/13bba4fa-b442-4c69-91d4-9db3e54e721e?source=linked_in_profile" height="30" width="40" /></a>
+<a href="https://www.youracclaim.com/badges/13bba4fa-b442-4c69-91d4-9db3e54e721e?source=linked_in_profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/terraform.svg" alt="https://www.youracclaim.com/badges/13bba4fa-b442-4c69-91d4-9db3e54e721e?source=linked_in_profile" height="30" width="40" /></a><a href="https://www.credly.com/badges/5923f043-3064-4984-b145-cfabecef8c49?source=linked_in_profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg" alt="https://www.credly.com/badges/5923f043-3064-4984-b145-cfabecef8c49?source=linked_in_profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Clouds And Tools:</h3>
