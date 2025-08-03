@@ -214,6 +214,7 @@
 - 💼 Open to DevOps, SRE, and Cloud Architecture opportunities
 - 🤝 Available for infrastructure automation and cloud optimization consultations
 - 🌟 Happy to collaborate on open-source DevOps projects
+- 📝 Read my DevOps insights: https://muhammad-irfan-tahir.medium.com/ 
 - 📧 Reach out: muhammad.irfan.tahir93@gmail.com
 
 ---
