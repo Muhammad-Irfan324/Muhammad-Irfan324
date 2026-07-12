@@ -167,7 +167,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-9%2B_Years-brightgreen?style=for-the-badge" alt="Experience" />
   <img src="https://img.shields.io/badge/Cloud_Platforms-5-blue?style=for-the-badge" alt="Cloud Platforms" />
-  <img src="https://img.shields.io/badge/Certifications-6-orange?style=for-the-badge" alt="Certifications" />
+  <img src="https://img.shields.io/badge/Certifications-7-orange?style=for-the-badge" alt="Certifications" />
   <img src="https://img.shields.io/badge/Technologies-50%2B-red?style=for-the-badge" alt="Technologies" />
 </p>
 
@@ -199,6 +199,7 @@
 <a href="https://www.credly.com/badges/5923f043-3064-4984-b145-cfabecef8c49?source=linked_in_profile" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" title="AWS Solutions Architect Associate" /></a>
 <a href="https://www.credly.com/badges/7fe831bf-c19c-4601-8065-894572230862/public_url" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate" title="HashiCorp Certified: Terraform Associate" /></a>
 <a href="https://www.credly.com/badges/9f427bf7-bd7b-4e81-a8ad-14ca27d61b22" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer Associate" title="AWS Developer Associate" /></a>
+<a href="https://www.credly.com/badges/1ffe466b-dfa5-41b5-9421-9029da3f0c9e/public_url" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" title="AWS Certified Solutions Architect – Professional" /></a>
 <a href="https://www.credly.com/badges/789915bf-9e04-4f7d-9b1c-4ba0ecd876de/linked_in_profile" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" title="AWS Certified DevOps Engineer – Professional" /></a>
 <a href="https://www.credly.com/badges/009394d6-d482-4d74-9cd7-8dd00236c93e/linked_in_profile" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" title="CKAD: Certified Kubernetes Application Developer" /></a>
 <a href="https://www.credly.com/badges/dba72dad-1a87-459e-ae69-d73f2112b260/linked_in_profile" target="blank"><img align="center" src="https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Google Cloud Associate Cloud Engineer" title="Google Cloud Associate Cloud Engineer" /></a>
